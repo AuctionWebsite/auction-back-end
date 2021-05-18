@@ -1,0 +1,24 @@
+{
+  "name": "auction-back-end",
+  "version": "0.0.1",
+  "description": "Backend for Auction Site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuctionWebsite/auction-back-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AuctionWebsite/auction-back-end/issues"
+  },
+  "homepage": "https://github.com/AuctionWebsite/auction-back-end#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}

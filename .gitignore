@@ -1,3 +1,9 @@
+#ENV
+config.env
+
+#dev build
+client/
+
 # Logs
 logs
 *.log
